@@ -1,0 +1,25 @@
+{
+  "id": "95bde22b-e734-4eef-aef7-fc0f9a6c5ffa",
+  "name": "Stripe Connector",
+  "publisher": "Tuner Brands",
+  "version": "1.0.0.11",
+  "propagateDependencies": true,
+  "runtime": "7.2",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "20.0.0.0",
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "21.0.46256.47234",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50400,
+      "to": 90149
+    }
+  ]
+}
